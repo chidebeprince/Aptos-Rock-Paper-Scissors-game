@@ -6,7 +6,7 @@ This is a detailed run-down of the features added to rock-paper-scissors game bu
 ### Player vs Player:
 I integrated the functionality that enables a player to play the game with another player (player v player) and not just with the computer alone. So the player can choose to play with the computer if there's no third party (or if he's feeling lonley😅). 
 
-### Storing scores and deleting scores:
+### Storing and deleting scores:
 I edited the smart contract such that the scores of both the players and the computer are tracked and incremented accordingly, no matter the number of rounds played. I also added the ability to reset the scores in the event that the player(s) wish to start the game over again.
 
 ## Summary:
