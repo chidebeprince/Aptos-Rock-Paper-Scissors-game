@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors-game on Aptos
-This is a detailed run-down of the features added to rock-paper-scissors game built during the third aptos campaign.
+This is a detailed run-down of the features added to the rock-paper-scissors game built during the third aptos campaign.
 
 ## Additional features:
 
